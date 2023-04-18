@@ -1,0 +1,28 @@
+
+ Device IP:192.168.32.134
+Device Hostname:CSR1kv2
+Password Encryption is enabled.
+SSH is enabled, and telnet is disabled
+IP source routing is NOT disabled.
+IP direct Broadcast are not disabled on interfaces
+
+ Device IP:192.168.32.135
+Device Hostname:CSR1kv
+Password encryption is NOT ENABLED
+SSH is enabled, and telnet is disabled
+IP source routing is NOT disabled.
+IP direct Broadcast are not disabled on interfaces
+
+ Device IP:192.168.32.136
+Device Hostname:CSR1kv
+Password encryption is NOT ENABLED
+SSH is enabled, and telnet is disabled
+IP source routing is NOT disabled.
+IP direct Broadcast are not disabled on interfaces
+
+ Device IP:192.168.32.133
+Device Hostname:CSR1kv
+Password encryption is NOT ENABLED
+SSH is enabled, and telnet is disabled
+IP source routing is NOT disabled.
+IP direct Broadcast are not disabled on interfaces
